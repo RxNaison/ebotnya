@@ -1,0 +1,8 @@
+C:\Users\nata\source\repos\ebotnya\ebotnya\bin\Debug\ebotnya.exe.config
+C:\Users\nata\source\repos\ebotnya\ebotnya\bin\Debug\ebotnya.exe
+C:\Users\nata\source\repos\ebotnya\ebotnya\bin\Debug\ebotnya.pdb
+C:\Users\nata\source\repos\ebotnya\ebotnya\obj\Debug\ebotnya.csproj.AssemblyReference.cache
+C:\Users\nata\source\repos\ebotnya\ebotnya\obj\Debug\ebotnya.csproj.SuggestedBindingRedirects.cache
+C:\Users\nata\source\repos\ebotnya\ebotnya\obj\Debug\ebotnya.csproj.CoreCompileInputs.cache
+C:\Users\nata\source\repos\ebotnya\ebotnya\obj\Debug\ebotnya.exe
+C:\Users\nata\source\repos\ebotnya\ebotnya\obj\Debug\ebotnya.pdb
